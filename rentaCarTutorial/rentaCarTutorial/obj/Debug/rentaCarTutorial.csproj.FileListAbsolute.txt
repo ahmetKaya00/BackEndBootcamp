@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\bin\Debug\rentaCarTutorial.exe.config
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\bin\Debug\rentaCarTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\bin\Debug\rentaCarTutorial.pdb
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\obj\Debug\rentaCarTutorial.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\obj\Debug\rentaCarTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\obj\Debug\rentaCarTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\rentaCarTutorial\rentaCarTutorial\obj\Debug\rentaCarTutorial.pdb

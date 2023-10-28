@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.exe.config
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.pdb
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.pdb

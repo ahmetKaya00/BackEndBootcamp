@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\bin\Debug\RepeatTutorial.exe.config
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\bin\Debug\RepeatTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\bin\Debug\RepeatTutorial.pdb
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\obj\Debug\RepeatTutorial.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\obj\Debug\RepeatTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\obj\Debug\RepeatTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\RepeatTutorial\RepeatTutorial\obj\Debug\RepeatTutorial.pdb

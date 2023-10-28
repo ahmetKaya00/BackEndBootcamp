@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\bin\Debug\abstractTutorial.exe.config
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\bin\Debug\abstractTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\bin\Debug\abstractTutorial.pdb
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\obj\Debug\abstractTutorial.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\obj\Debug\abstractTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\obj\Debug\abstractTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\abstractTutorial\abstractTutorial\obj\Debug\abstractTutorial.pdb

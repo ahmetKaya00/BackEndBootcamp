@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\bin\Debug\encapsulationTutorial.exe.config
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\bin\Debug\encapsulationTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\bin\Debug\encapsulationTutorial.pdb
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\obj\Debug\encapsulationTutorial.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\obj\Debug\encapsulationTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\obj\Debug\encapsulationTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\encapsulationTutorial\encapsulationTutorial\obj\Debug\encapsulationTutorial.pdb

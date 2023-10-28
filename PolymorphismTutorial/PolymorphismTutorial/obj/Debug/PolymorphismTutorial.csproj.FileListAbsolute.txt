@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\obj\Debug\PolymorphismTutorial.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\obj\Debug\PolymorphismTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\bin\Debug\PolymorphismTutorial.exe.config
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\bin\Debug\PolymorphismTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\bin\Debug\PolymorphismTutorial.pdb
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\obj\Debug\PolymorphismTutorial.exe
+C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\PolymorphismTutorial\PolymorphismTutorial\obj\Debug\PolymorphismTutorial.pdb

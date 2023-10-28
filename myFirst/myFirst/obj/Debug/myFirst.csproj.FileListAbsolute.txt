@@ -1,0 +1,7 @@
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\bin\Debug\myFirst.exe.config
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\bin\Debug\myFirst.exe
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\bin\Debug\myFirst.pdb
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\obj\Debug\myFirst.csproj.AssemblyReference.cache
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\obj\Debug\myFirst.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\obj\Debug\myFirst.exe
+C:\Users\Kaya3\OneDrive\Belgeler\Projeler\c#\myFirst\myFirst\obj\Debug\myFirst.pdb
