@@ -9,45 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = basics
 build_property.RootNamespace = basics
-build_property.ProjectDir = C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\basics\
+build_property.ProjectDir = C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\erciyesAsp\basics\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\basics
+build_property.MSBuildProjectDirectory = C:\Users\Kaya3\OneDrive\Masaüstü\techcareer.net\aspnetCore\erciyesAsp\basics
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Bootcamp/Index.cshtml]
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Bootcamp/Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdGNhbXBcQ291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Bootcamp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdGNhbXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Bootcamp/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdGNhbXBcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Bootcamp/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdGNhbXBcTGlzdC5jc2h0bWw=
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Bootcamp/_Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdGNhbXBcX0NvdXJzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Home/contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Home/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Shared/Error.cshtml]
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/_ViewImports.cshtml]
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/_ViewStart.cshtml]
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/basics/Views/Shared/_Layout.cshtml]
+[C:/Users/Kaya3/OneDrive/Masaüstü/techcareer.net/aspnetCore/erciyesAsp/basics/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xd2ekzr3ws

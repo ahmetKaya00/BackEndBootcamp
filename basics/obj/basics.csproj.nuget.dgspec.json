@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\basics\\basics.csproj": {}
+    "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\erciyesAsp\\basics\\basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\basics\\basics.csproj": {
+    "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\erciyesAsp\\basics\\basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\basics\\basics.csproj",
+        "projectUniqueName": "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\erciyesAsp\\basics\\basics.csproj",
         "projectName": "basics",
-        "projectPath": "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\basics\\basics.csproj",
+        "projectPath": "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\erciyesAsp\\basics\\basics.csproj",
         "packagesPath": "C:\\Users\\Kaya3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\basics\\obj\\",
+        "outputPath": "C:\\Users\\Kaya3\\OneDrive\\Masaüstü\\techcareer.net\\aspnetCore\\erciyesAsp\\basics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

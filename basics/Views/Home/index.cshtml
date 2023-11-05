@@ -1,11 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Home Page</h1>
-</body>
-</html>
+  @model List<Bootcamp>
+    @section Header{
+        @await Html.PartialAsync("_Header")
+    }
+<div class="row">
+    @foreach(var kurs in Model){
+    @if(kurs.isActive && kurs.isHome){
+    <div class="col-3">
+        <div class="card">
+            <img src="~/img/@kurs.Image" class="card-img-top" alt="">
+            <div class="card-body">
+                <h5 class="card-title">
+                    @kurs.Title
+                </h5>
+                <p class="card-text">@kurs.Description</p>
+                <a class="btn btn-primary" asp-controller="Bootcamp" asp-action="Details" asp-route-id="@kurs.Id">Kayıt</a>
+            </div>
+        </div>
+        </div>
+        }
+    }
+</div>

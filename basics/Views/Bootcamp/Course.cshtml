@@ -1,0 +1,10 @@
+@model List<Bootcamp>
+<div class="container mt-3">
+                @foreach(var kurs in Model){
+
+                     @if(kurs.isActive){
+                     @await Html.PartialAsync("_Course",kurs)  
+                     }
+                           
+                }
+        </div>  
