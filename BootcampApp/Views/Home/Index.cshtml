@@ -1,0 +1,17 @@
+@model BootcampInfo;
+ @{
+   ViewBag.Title = "Techcareer";
+    Layout = "_Layout2";
+ }
+ <main class="text-center">
+ <h1 class="h4">@ViewData["Selam"], @ViewData["UserName"]</h1>
+ <p>Bootcampe Katılma Durumunuzu Bildiriniz.</p>
+ <div class="card my-2">
+   <ul class="list-group list-group-flush">
+      <li class="list-group-item">@Model.Location</li>
+      <li class="list-group-item">@Model.Date.ToString("dd/mm/yyyy HH:mm:ss") tarihinde gerçekleşecektir.</li>
+      <li class="list-group-item">@Model.NumberOfPeople Katılımcı</li>
+   </ul>
+ </div>
+ <a class="btn btn-sm btn-outline-primary" asp-controller ="Bootcamp" asp-action="Apply">Başvuru Yap</a>
+</main>
